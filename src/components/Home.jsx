@@ -16,7 +16,7 @@ export default function Home(){
                     <hr />
                     <h4>To download file : please click 
                     <ul>
-                        <li><a href="src/components/data.xlsx" download >Excel</a></li>
+                        <li><a href="image/data.xlsx" download >Excel</a></li>
                     </ul>
                     </h4>
                     <hr />
