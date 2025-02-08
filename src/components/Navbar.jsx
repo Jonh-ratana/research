@@ -6,7 +6,7 @@ export default function Navbar(){
         <>
   <nav class="navbar navbar-expand-lg ">
   <div class="container-fluid">
-    <img src="src/components/image/bank.png" alt="" width={'50px'} />
+    <img src="image/bank.png" alt="" width={'50px'} />
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span> 
     </button>
