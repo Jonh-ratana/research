@@ -6,7 +6,7 @@ export default function Team() {
       <div className="card-member p-2 m-3 rounded-3 col-12 col-sm-6 col-md-4 col-lg-3">
           <div className="image">
             <img
-              src="components/image/ratana.jpg"
+              src="image/ratana.jpg"
               alt="Poch Sameun"
               width={'100%'}
               height={'100%'}
@@ -24,7 +24,7 @@ export default function Team() {
         <div className="card-member p-2 m-3 rounded-3 col-12 col-sm-6 col-md-4 col-lg-3">
           <div className="image">
             <img
-              src="components/image/dara.jpg"
+              src="image/dara.jpg"
               alt="Poch Sameun"
               width={'100%'}
               height={'100%'}
@@ -43,7 +43,7 @@ export default function Team() {
         <div className="card-member p-2 m-3 rounded-3 col-12 col-sm-6 col-md-4 col-lg-3">
           <div className="image">
             <img
-              src="components/image/poch_samoeurn.jpg"
+              src="image/poch_samoeurn.jpg"
               alt="Poch Sameun"
               width={'100%'}
               height={'100%'}
@@ -62,7 +62,7 @@ export default function Team() {
         <div className="card-member p-2 m-3 rounded-3 col-12 col-sm-6 col-md-4 col-lg-3">
           <div className="image">
             <img
-              src="components/image/phument.jpg"
+              src="image/phument.jpg"
               alt="Poch Sameun"
               width={'100%'}
               height={'100%'}
@@ -81,7 +81,7 @@ export default function Team() {
         <div className="card-member p-2 m-3 rounded-3 col-12 col-sm-6 col-md-4 col-lg-3">
           <div className="image">
             <img
-              src="components/image/tivea.jpg"
+              src="image/tivea.jpg"
               alt="Poch Sameun"
               width={'100%'}
               height={'100%'}
