@@ -9,7 +9,7 @@ export default function Professor() {
                 <div className="card-member p-2 m-3 rounded-3 col-12 col-sm-6 col-md-4 col-lg-3">
                     <div className="image">
                         <img
-                            src="src/components/image/professor.jpg"
+                            src="image/professor.jpg"
                             alt="Poch Sameun"
                             width={'100%'}
                             height={'100%'}
