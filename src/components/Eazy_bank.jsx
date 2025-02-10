@@ -14,7 +14,7 @@ export default function Eazy_bank() {
     { name: 'ACLEDA', value: 14 },
     { name: 'BRASAK', value: 1 },
   ];
-
+ 
   const COLORS = ['#0088FE', '#FF8042', '#FFBB28'];
 
   // Detect small screens

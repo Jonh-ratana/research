@@ -33,11 +33,11 @@ export default function BarChartExample() {
 
   return (
     <>
-   
+   <h5 className='mt-10 text-center'><b>ចំនួនអ្នកប្រើប្រាស់ទាំងពីរភេទ</b></h5>
     <div className="gender">
         <Gender/>
       </div>
-      <h2 className='text-center mt-10'><b>ធនាគារដែលប្រើប្រាស់ដែលមានអ្នកប្រើប្រាស់ច្រើន</b></h2>
+      <h5 className='mt-10 text-center'><b>គណនីធនាគារដែលនិស្សិតបានបើកដំណើរការ</b></h5>
       <div className="chart-container" style={{ width: '100%', height: '500px' }}>
         <ResponsiveContainer width="100%" height="100%">
           <BarChart
@@ -79,12 +79,12 @@ export default function BarChartExample() {
         </ResponsiveContainer>
       </div>
      
-      <h5 style={{textAlign:"center", margin:"10px 0 0 0"}}>ធនាគារដែលស្រួលប្រើប្រាស់</h5>
+      <h5 style={{textAlign:"center", margin:"10px 0 0 0"}}>ធនាគារដែលមានអ្នកប្រើប្រាស់ច្រើន</h5>
       <div className="eazy_bank">
       <Eazy_bank/>
       </div>
       <div className="horizantl">
-      <h5 style={{textAlign:"center"}}>តើអ្នកចូលចិត្តចំណាយជាក្រដាស់ប្រាក់ផ្តាល់ឬជាសាច់ប្រាក់ឌីជីថល?</h5>
+      <h5 style={{textAlign:"center"}}>ការចំណាយដែលនិស្សិតនិស្សិតចូលចិត្ត</h5>
         <Horizontal/>
       </div>
       <div className='container'>
