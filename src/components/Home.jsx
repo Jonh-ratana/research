@@ -18,12 +18,12 @@ export default function Home(){
                     <ul>
                         <li><a href="image/data.xlsx" download >Excel</a></li>
                     </ul>
-                    </h4>
+                    
                     
                     <ul>
-                        <li><a href="image/data.xlsx" download >PDF</a></li>
+                        <li><a href="image/អត្ថប្រយោជន៍នៃកការប្រើបាស់គណនីធនាគាររបស់និស្សិត.pdf" download >PDF</a></li>
                     </ul>
-                
+                </h4>
                     <hr />
                 </div>
                 <img src="" alt="" />
